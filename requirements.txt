@@ -7,6 +7,8 @@ catboost
 xgboost
 dill
 flask
+ipykernel
+tensorflow
 
 
 
